@@ -1,0 +1,2 @@
+# ninjs-firefox
+firefox cli
